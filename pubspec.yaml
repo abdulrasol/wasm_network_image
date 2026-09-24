@@ -1,7 +1,7 @@
 name: wasm_network_image
-description: "A new Flutter package project."
+description: "A modern, zero-dependency Flutter network image widget that provides native, performant image rendering across Web (WASM) and Native platforms."
 version: 0.0.1
-homepage:
+repository: https://github.com/abdulrasol/wasm_network_image
 
 environment:
   sdk: ^3.13.3
